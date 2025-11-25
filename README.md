@@ -1,4 +1,10 @@
-## Hi there 👋
+
+
+## Hi there 👋 Hi, everyone! 👋🏻
+
+I'm just evernewbie programmer who want to learn everything and trying to add something new to this world!
+Now I'm working on some .NET libraries and other shit, that simplified all of my work on last jobs.
+
 
 <!--
 **MaNGOSDX/MaNGOSDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
